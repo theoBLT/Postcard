@@ -44,6 +44,7 @@ class ViewController: UIViewController {
         
         mailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
         // Set a new title for the Button
+        // Just a comment to make an edit, for edit's sake
         
     }
 
